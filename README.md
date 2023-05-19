@@ -1,4 +1,4 @@
-![Фото] (https://github.com/KhachHayk/my_portfolio/blob/main/images/Foto.png "Мое фото")
+![] (https://github.com/KhachHayk/my_portfolio/blob/main/images/Foto.png)
 # _Меня завут Айк_.
 
 ## _Я учусь на курсе Python-разработчик с нуля._
